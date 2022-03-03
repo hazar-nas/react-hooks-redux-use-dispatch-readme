@@ -10,7 +10,7 @@
     "redux": "^4.0.5"
   },
   "scripts": {
-    "start": "react-scripts start"
+    "start": "react-scripts --openssl-legacy-provider start"
   },
   "eslintConfig": {
     "extends": [
